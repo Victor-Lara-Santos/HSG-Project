@@ -8,3 +8,5 @@ for h in soup.findAll('h3', class_='gs-c-promo-heading__title')
 The h3 may be changed to div, h2 or others, and the class object should also change with each new website. To see the correct class and header it is necessary to inspect the html elements of the targeted website
 
 To run the program, just open a jupyther notebook and click run. The code is written so that nothing more is needed to run it
+
+Group: Victor Lara Santos and Basil Gemperle
