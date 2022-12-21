@@ -9,4 +9,6 @@ The h3 may be changed to div, h2 or others, and the class object should also cha
 
 To run the program, just open a jupyther notebook and click run. The code is written so that nothing more is needed to run it
 
+bbc_headline_scraper from indently in github was used as an inspiration and tutorial
+
 Group: Victor Lara Santos and Basil Gemperle
