@@ -11,8 +11,8 @@ As said above, The Reuters and The Onion scrapper is similar to the one used for
 
 To run the program, just open a jupyther notebook and click run. The code is written so that nothing more is needed to run it
 
-bbc_headline_scraper from indently in github was used as an inspiration and tutorial for BBC and Bloomberg scrapers
-Seungjun-Data-Science used as inspiration and tutorial for Reuters and The Onion scrapers
+bbc_headline_scraper from indently in github was used as an inspiration and tutorial for BBC and Bloomberg scrapers (https://github.com/indently/bbc_headline_scraper)
+Seungjun-Data-Science used as inspiration and tutorial for Reuters and The Onion scrapers (https://gist.github.com/Seungjun-Data-Science/a2003f696fe0a3804750c930b21f3d82)
 
 Due to differences on html structures between the varying websites, it was not possible to use only one solution to all of them; not only that, but even within the same solution there are differences due to how each website is structured. For example, the solution used for both The Onion and Reuters is the same, but it was not possible to grab the summaries for each article from The Onion, while with Reuters it was possible.
 
