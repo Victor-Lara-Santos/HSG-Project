@@ -7,8 +7,12 @@ for h in soup.findAll('h3', class_='gs-c-promo-heading__title')
 
 The h3 may be changed to div, h2 or others, and the class object should also change with each new website. To see the correct class and header it is necessary to inspect the html elements of the targeted website
 
+The Reuters scrapper (https://www.reuters.com/news/archive) is similar to the one used for BBC and the Onion, but it uses panda to organize the summary, title and url of the articles
+
 To run the program, just open a jupyther notebook and click run. The code is written so that nothing more is needed to run it
 
 bbc_headline_scraper from indently in github was used as an inspiration and tutorial
+Seungjun-Data-Science used as inspiration for Reuters scrapper
+Due to differences on html structures between the varying websites, it was not possible to use only one solution to all of them
 
-Group: Victor Lara Santos and Basil Gemperle
+Group: Victor Lara Santos
